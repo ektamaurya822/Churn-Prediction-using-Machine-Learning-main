@@ -1,5 +1,7 @@
 # Churn-Prediction-using-Machine-Learning-main
 Utilized historical customer data to predict customer churn using logistic regression and decision trees. Preprocessed the data, handled missing values, and performed feature selection. Achieved an accuracy of 82% in predicting customer churn.
+![Test Image 1](https://s16353.pcdn.co/wp-content/uploads/2018/06/Churn.png)
+
 ## Objective
 Can you develop a model of machine learning that can predict customers who will leave the company?
 
